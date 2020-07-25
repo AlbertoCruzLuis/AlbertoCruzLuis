@@ -1,6 +1,4 @@
-<div align="center">
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlbertoCruzLuis.AlbertoCruzLuis)
-</div>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AlbertoCruzLuis.AlbertoCruzLuis)
  
 <h2 align="center">Hello there! My name is Alberto Cruz Luis. 👋😉</h2>
 <p align="center">I'm studying computer science at the University of La Laguna.
@@ -24,6 +22,6 @@ I currently learn about Framework Python how Flask or Django to integrate it wit
     "Machine Learning" : ["Scikit-learn"]
   }
 ```
-
+<br/>
 
 [![AlbertoCruzLuis's github stats](https://github-readme-stats.vercel.app/api?username=AlbertoCruzLuis&theme=tokyonight&show_icons=true)](https://github.com/AlbertoCruzLuis/github-readme-stats)
