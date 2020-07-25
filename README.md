@@ -3,4 +3,4 @@
 I am interested in the world of artificial intelligence, especially in machine learning.
 I currently learn about Framework Python how Flask or Django to integrate it with web development tools and machine learning models.</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoCruzLuis&hide=javascript,html)](https://github.com/AlbertoCruzLuis/github-readme-stats)
+[![AlbertoCruzLuis's github stats](https://github-readme-stats.vercel.app/api?username=AlbertoCruzLuis&theme=tokyonight&show_icons=true)](https://github.com/AlbertoCruzLuis/github-readme-stats)
