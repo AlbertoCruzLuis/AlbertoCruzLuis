@@ -1,7 +1,6 @@
 <div align="center">
-  <a href="https://visitor-badge.glitch.me/badge?page_id=AlbertoCruzLuis.AlbertoCruzLuis">![visitors](https://visitor-badge.glitch.me/badge?      page_id=AlbertoCruzLuis.AlbertoCruzLuis)
-  </a>
- </div>
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlbertoCruzLuis.AlbertoCruzLuis)
+</div>
  
 <h2 align="center">Hello there! My name is Alberto Cruz Luis. 👋😉</h2>
 <p align="center">I'm studying computer science at the University of La Laguna.
