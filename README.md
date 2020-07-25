@@ -11,6 +11,7 @@ I currently learn about Framework Python how Flask or Django to integrate it wit
 
 <hr/>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AlbertoCruzLuis.AlbertoCruzLuis)
 
 <!-- ### Languages and Tools :computer:  -->
 
