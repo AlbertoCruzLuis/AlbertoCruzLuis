@@ -16,7 +16,7 @@ I currently learn about Framework Python how Flask or Django to integrate it wit
 ### Languages and Tools :computer:
 ```python3
   Technologies = {
-    "Fronted" : ["HTML","CSS","JS","Bootstrap 4"],
+    "Fronted" : ["HTML","CSS","JS","React","Bootstrap 4"],
     "Backend" : ["Python","Flask","Django"],
     "Database" : ["SQL", "MySql", "PostgreSQL", "MongoDB"],
     "Machine Learning" : ["Scikit-learn"]
