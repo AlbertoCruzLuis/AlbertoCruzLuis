@@ -3,7 +3,7 @@
 <h2 align="center">Hello there! My name is Alberto Cruz Luis. 👋😉</h2>
 <p align="center">I'm studying computer science at the University of La Laguna.
 I am interested in the world of artificial intelligence, especially in machine learning.
-I currently learn about Framework Python how Flask or Django to integrate it with web development tools and machine learning models.</p>
+I currently learning React.</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alberto-cruz-luis-53abb7194/">
@@ -16,8 +16,8 @@ I currently learn about Framework Python how Flask or Django to integrate it wit
 ### Languages and Tools :computer:
 ```python3
   Technologies = {
-    "Fronted" : ["HTML","CSS","JS","React","Bootstrap 4"],
-    "Backend" : ["Python","Flask","Django"],
+    "Fronted" : ["HTML","CSS","JS","React"],
+    "Backend" : ["Python","Flask"],
     "Database" : ["SQL", "MySql", "PostgreSQL", "MongoDB"],
     "Machine Learning" : ["Scikit-learn"]
   }
