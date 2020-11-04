@@ -10,7 +10,7 @@ I currently learning React.</p>
     <img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
  <a href="https://albertocruzluis.github.io/MyPortfolio/#/">
-    <img alt="Portfolio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_Sitio_Web.png" />
+    <img alt="Portfolio" width="22px" src="https://icon-library.com/images/www-icon-png/www-icon-png-28.jpg" />
   </a>
 </div>
 
