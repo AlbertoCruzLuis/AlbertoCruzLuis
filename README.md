@@ -9,6 +9,9 @@ I currently learning React.</p>
   <a href="https://www.linkedin.com/in/alberto-cruz-luis-53abb7194/">
     <img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
+ <a href="https://albertocruzluis.github.io/MyPortfolio/#/">
+    <img alt="Portfolio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_Sitio_Web.png" />
+  </a>
 </div>
 
 <hr/>
