@@ -12,8 +12,8 @@ I currently learning React.</p>
  <a href="https://albertocruzluis.github.io/MyPortfolio/#/">
     <img alt="Portfolio" width="22px" src="https://icon-library.com/images/www-icon-png/www-icon-png-28.jpg" />
   </a>
- <a href="https://twitter.com/AlbertoCruzdev">
-  <img alt="Twitter" width="22px" src="https://cdn.cdnlogo.com/logos/i/21/instagram-glyph.svg">
+ <a href="https://www.instagram.com/albertocruzluisdev/">
+  <img alt="Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/21/instagram-glyph.svg">
  </a>
 </div>
 
