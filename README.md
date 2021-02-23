@@ -16,12 +16,12 @@ I currently learning React.</p>
   <img alt="Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/21/instagram-glyph.svg">
  </a>
 </div>
-
 <hr/>
 
-### Languages and Tools :computer:
-```python3
+### Languages and Tools
+```javascript
   Technologies = {
+    "Design" : "Figma"
     "Fronted" : ["HTML","CSS","JS","React"],
     "Backend" : ["Python","Flask"],
     "Database" : ["SQL", "MySql", "PostgreSQL", "MongoDB"],
