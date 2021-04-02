@@ -2,8 +2,8 @@
  
 <h2 align="center">Hi, I'm <a href="https://albertocruzluis.github.io/MyPortfolio/#/">Alberto Cruz Luis </a> 👋😉</h2>
 <p align="center">I'm studying computer science at the University of La Laguna.
-I am interested in the world of artificial intelligence, especially in machine learning.
-I currently learning React.</p>
+I love create modern website with React.
+I currently learning NextJS and UX.</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alberto-cruz-luis-53abb7194/">
@@ -21,11 +21,7 @@ I currently learning React.</p>
 ### Languages and Tools
 ```javascript
   Technologies = {
-    "Design" : "Figma"
-    "Fronted" : ["HTML","CSS","JS","React"],
-    "Backend" : ["Python","Flask"],
-    "Database" : ["SQL", "MySql", "PostgreSQL", "MongoDB"],
-    "Machine Learning" : ["Scikit-learn"]
+    "Fronted" : ["Figma","HTML","CSS","JS","React","NextJS","NodeJS"],
   }
 ```
 <br/>
