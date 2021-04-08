@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlbertoCruzLuis.AlbertoCruzLuis)
  
-<h2 align="center">Hi, I'm <a href="https://albertocruzluis.github.io/MyPortfolio/#/">Alberto Cruz Luis </a> 👋😉</h2>
+<h2 align="center">Hi, I'm <a href="https://albertocruzluis.com">Alberto Cruz Luis </a> 👋😉</h2>
 <p align="center">I'm studying computer science at the University of La Laguna.
 I love create modern website with React.
 I currently learning NextJS and UX.</p>
