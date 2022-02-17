@@ -3,7 +3,7 @@
 <h2 align="center">Hi, I'm <a href="https://albertocruzluis.com">Alberto Cruz Luis </a> 👋😉</h2>
 <p align="center">I'm studying computer science at the University of La Laguna.
 I love create modern website with React.
-I currently learning NextJS and UX.</p>
+I currently learning Web3</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alberto-cruz-luis-53abb7194/">
