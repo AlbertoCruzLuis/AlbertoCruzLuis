@@ -21,7 +21,8 @@ I currently learning Web3</p>
 ### Languages and Tools
 ```javascript
   Technologies = {
-    "Fronted" : ["Figma","HTML","CSS","JS","React","NextJS","NodeJS"],
+    "Fronted" : ["Figma", "HTML", "CSS", "JS", "TS", "React", "NextJS"],
+    "Blockchain": ["Solidity", "Ethereum", "NFT"]
   }
 ```
 <br/>
