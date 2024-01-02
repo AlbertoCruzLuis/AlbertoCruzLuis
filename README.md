@@ -30,7 +30,7 @@
    <a href="https://twitter.com/AlbertoCruzdev">
      <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/alberto_crl9/">
+  <a href="https://www.instagram.com/albertocruzdev">
    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
  </div>
