@@ -10,11 +10,9 @@
 
 📍 Tenerife, Canary Islands
 
-💼 Frontend Developer at Tribalyte Technologies
+💼 Frontend Developer at Maarlab
 
 📚 Computer Science at the University of La Laguna
-
-🌱 I’m currently learning Web3
 
 👨‍💻 My Portfolio [albertocruzluis.com](https://www.albertocruzluis.com)
 
